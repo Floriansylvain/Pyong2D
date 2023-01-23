@@ -1,0 +1,22 @@
+{
+    "player_2": {
+        "keyboard": {
+            "up": 65362,
+            "down": 65364
+        },
+        "controller": {
+            "up": "",
+            "down": ""
+        }
+    },
+    "player_1": {
+        "keyboard": {
+            "up": 119,
+            "down": 115
+        },
+        "controller": {
+            "up": "",
+            "down": ""
+        }
+    }
+}
